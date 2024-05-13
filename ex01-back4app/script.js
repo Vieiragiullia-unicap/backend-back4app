@@ -6,8 +6,8 @@ const cbNaoConcluidas = document.getElementById("cbNaoConcluidas");
 
 const tarefaURL = "https://parseapi.back4app.com/classes/Tarefa";
 const headers = {
-  "X-Parse-Application-Id": "1cJocS0NTUEkciXEyZuWApiy4YcAzkICO0HElEnW",
-  "X-Parse-REST-API-Key": "7dl9VG5489Lu5nXteS9mqclTHaSbin5I0yVIPC5n",
+  "X-Parse-Application-Id": "a9ZT57olp5l8LEqKXyA8CZy5zFsdX3s6oiltu8vF",
+  "X-Parse-REST-API-Key": "9Vp8PB7avydhu1TEreK8R6CusGnYQfYR0wVSSkaQ",
 };
 const headersJson = {
   ...headers,
